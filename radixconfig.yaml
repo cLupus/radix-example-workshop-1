@@ -1,7 +1,7 @@
 apiVersion: radix.equinor.com/v1
 kind: RadixApplication
 metadata:
-  name: radix-workshop-snis-trivial-change
+  name: radixworkshopsnis
 spec:
   environments:
     - name: production
